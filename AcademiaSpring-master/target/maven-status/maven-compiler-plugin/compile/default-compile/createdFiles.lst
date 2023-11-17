@@ -1,0 +1,6 @@
+com\example\academiaspring\controler\Controlador.class
+com\example\academiaspring\interfaces\IPersona.class
+com\example\academiaspring\modelo\Persona.class
+com\example\academiaspring\service\PersonaService.class
+com\example\academiaspring\interfaceService\IpersonaService.class
+com\example\academiaspring\AcademiaSpringApplication.class
